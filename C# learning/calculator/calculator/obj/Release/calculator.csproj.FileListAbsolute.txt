@@ -1,0 +1,9 @@
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\bin\Release\calculator.exe.config
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\bin\Release\calculator.exe
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\bin\Release\calculator.pdb
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\obj\Release\calculator.Form1.resources
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\obj\Release\calculator.exe
+C:\Users\lv\source\repos\C# learning\week1\calculator\calculator\obj\Release\calculator.pdb
